@@ -1,0 +1,78 @@
+
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+   
+    <title> M A L J A E </title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="./favicon.ico" />
+    <link rel="stylesheet" href="./login.css">
+    
+  </head>
+
+  <body>
+  	<div class="container">
+	    <h2>Maljae Admin Webpage</h2>
+	<form action="/team/taskcreate" method="post" class="form">
+    <table>
+    <tr>
+    <td>
+    <label for="taskid">Your Task id </label>
+	<input type="taskid" name="taskid" id="taskid">
+	</td>
+	<td>
+	<label for="taskname">Your Task name </label>
+	<input type="taskname" name="taskname" id="taskname">
+	</td>
+	</tr>
+	<tr>
+	<td>
+	<label for="taskurl">Your Task url </label>
+	<input type="taskurl" name="taskurl" id="taskurl">
+	</td>
+	<td>
+	<label for="taskdesc">Your Task desc </label>
+	<input type="taskdesc" name="taskdesc" id="taskdesc">
+	</td>
+	</tr>
+	</table>
+    <div class="form">
+	<input type="submit" value="CREATE TASK">
+    </div>
+    </form>
+
+
+	<form action="/team/adminteamlist" method="post" class="form">
+	<input type="submit" value="Team List">
+    </form>
+    
+    <form action="/team/admintasklist" method="post" class="form">
+    <input type="submit" value="Tasks List">
+    </form>
+    <form action="/team/assigntasktoteam" method="post" class="form">
+	<input type="submit" value="Assign !">
+    </form>
+    </div>
+    
+    
+    
+    	<ul class="bg-bubbles">
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>             
+         </ul>        
+  </body>
+  
+</html>
+
+

@@ -1,0 +1,25 @@
+{
+  "identifier": "BBBBB",
+  "preferences": ["task1"],
+  "emploiDuTemps": [
+    null,
+    null,
+    true,
+    true,
+    true,
+    true,
+    null,
+    null,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "students": [{
+    "confirmed": true,
+    "email": "su.lifang@outlook.com"
+  }],
+  "secret": 96
+}

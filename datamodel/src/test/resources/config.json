@@ -1,0 +1,24 @@
+{
+  "opening_date"          : "2016-01-19 17:00:00",
+  "closing_date"          : "2030-02-14 12:00:00",
+  "nb_users_per_team"     : { "min" : 3, "max" : 4 },
+  "nb_teams_per_subject"  : { "default" : 6 },
+
+  "tasks"             : [
+
+   {
+     "identifier" : "task1",
+     "title" : "some title for task 1",
+     "url" :   "http://somewhere.fr",
+     "description" : "A terrific task"
+   },
+
+   {
+     "identifier" : "task2",
+     "title" : "some title for task 2",
+     "url" :   "http://somewhereelse.fr",
+     "description" : "A great task"
+   }
+
+   ]
+}

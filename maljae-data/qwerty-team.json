@@ -1,0 +1,28 @@
+{
+  "identifier": "qwerty",
+  "preferences": [
+    "task1",
+    "task2"
+  ],
+  "emploiDuTemps": [
+    null,
+    null,
+    null,
+    null,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "students": [{
+    "confirmed": true,
+    "email": "su.lifang@outlook.com"
+  }],
+  "secret": 23
+}

@@ -1,0 +1,29 @@
+{
+  "identifier": "final",
+  "preferences": [
+    "task1",
+    "task2",
+    "miam"
+  ],
+  "emploiDuTemps": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    null,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "students": [{
+    "confirmed": true,
+    "email": "su.lifa@outlook.com"
+  }],
+  "secret": 78
+}

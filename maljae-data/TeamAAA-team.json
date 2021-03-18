@@ -1,0 +1,39 @@
+{
+  "identifier": "TeamAAA",
+  "preferences": [
+    "task1",
+    "task2",
+    "miam"
+  ],
+  "emploiDuTemps": [
+    true,
+    true,
+    true,
+    true,
+    null,
+    null,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "students": [
+    {
+      "confirmed": true,
+      "email": "su.lifang@outlook.com"
+    },
+    {
+      "confirmed": true,
+      "email": ""
+    },
+    {
+      "confirmed": true,
+      "email": "teamaaa@gamil.com"
+    }
+  ],
+  "secret": 84
+}

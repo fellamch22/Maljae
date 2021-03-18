@@ -1,0 +1,11 @@
+email: hf_mechouar@esi.dz
+subject: [maljae] Team Creation
+message:
+Hello!
+You have requested the creation of a team.
+Here are the links to perform actions on this team.
+- To edit your team information :
+  http://localhost:8080/team/edit/184121923
+- To delete your team :
+  http://localhost:8080/team/delete/184121923
+
